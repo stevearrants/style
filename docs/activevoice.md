@@ -1,9 +1,7 @@
 Active voice
 ============
 
-Our writing should be concise and direct. The active voice supports
-brevity and makes written content more engaging, too. The active voice
-helps the reader identify the subject of the sentence. In the following
+Our writing should be concise and direct. The active voice engages readers. It is also more concise and helps the reader identify the subject of the sentence. In the following
 example, the person who submits the form is essential information.
 Omitting that leads to a confusing and impersonal sentence.
 
