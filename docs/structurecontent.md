@@ -13,8 +13,7 @@ read 25 percent of it. This shows the importance of getting content
 right.
 
 Put the most important information in the first two paragraphs. That's
-the section users are most likely to read. In journalism, this technique
-is called the "inverted pyramid."
+the section users are most likely to read.
 
 Break up text
 -------------
@@ -49,8 +48,8 @@ What about FAQs?
 
 FAQs are easy to write and structure---too easy. They:
 
-* Can be hard to read and search for
-* May duplicate other content on your site
+* Can be hard to read and search for.
+* May duplicate other content on your site.
 * Mean that content is not where people expect to find it.
 
 If you're thinking about posting FAQs, review the content and look for

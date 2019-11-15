@@ -35,7 +35,7 @@ quotation or the first word after a colon is a proper noun. For example:
 > The dolphins left a note that said: "So long and thanks for all the
 > fish!"
 >
-> There are two types of article: Reviews and Research.
+> There are two students tied for top of the class: Richard and Stephanie.
 
 Semicolons
 ----------
@@ -64,7 +64,7 @@ When offsetting a phrase with dashes you should use the longer em dash
 *We emphasize specific, customer-centered workflows, and &mdash; whenever
 possible &mdash; we preserve your current workflow.*
 
-Although we advocate using words rather than symbols, in some contexts
+Use words rather than symbols, but in some contexts
 you may use an "en dash" to convey a range of numbers. For example, both
 *10&ndash;20 footnotes* and *10 to 20 footnotes* are acceptable options.
 

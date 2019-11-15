@@ -11,7 +11,8 @@ Style guides
 I generally follow [Microsoft Writing Style
 Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).![](Resources/Images/offsite-link.png)
 I use this for computer, interface, and software terms, unless otherwise
-noted. The other important resource I use are:
+noted. The online site is OK, but try and find the 4th edition of the printed guide.
+The other important resource I use are:
 
 -   [The Chicago Manual of Style, 16th
     ed.](http://www.chicagomanualofstyle.org/home.html)
@@ -24,13 +25,3 @@ noted. The other important resource I use are:
 I just found this site, [The Punctuation
 Guide](http://www.thepunctuationguide.com/index.html)
 ![](Resources/Images/offsite-link.png), for all things punctuation.
-
-Sheridan Terms
---------------
-
-The Production group has a nicely comprehensive list of terms specific
-to SJS.
-
-For questions about the Sheridan corporate logo and branding
-information, I go to Sheridan Logos and
-Branding on the shared server.
