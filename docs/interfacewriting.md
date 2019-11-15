@@ -1,24 +1,23 @@
 Interface writing
 =================
 
-We often write technical documentation, guides, forms, and interface
-messages. In most of these cases, it's safe to say the reader is
+We often write technical documentation where it's safe to say the reader is
 learning something new or troubleshooting. Write clear, concise
-instructions that give your reader with the best possible experience.
+instructions to the user the best possible experience.
 
 Basics
 ------
 
-### Do the hard work to make it simple
+### Do the hard work to make it simple for the user
 
-Help the reader follow along. Break instructions or processes down into
-individual steps. Use short, simple sentences with words people use in
-everyday conversation.
+Help the user follow along. Break instructions and processes down into
+individual steps. Use short, simple sentences with words the user will 
+recognize and understand.
 
-Refer to navigation labels, buttons, and menus as they appear in the app
-or website. Verify the spelling and capitalization as you write. Your
-reader looks for the same name as in the instruction. Always boldface
-interface items and omit any terminal punctuation from the bold.
+Refer to navigation labels, buttons, and menus as they appear in the app. Verify 
+the spelling and capitalization as you write. Users look for the same name as 
+in the instruction. Always boldface interface items and omit any terminal 
+punctuation from the bold.
 
 Be specific and give the reader as much help as you can.
 
@@ -48,8 +47,8 @@ Or:
 > To get started, click the **JIRA Service Desk** link to create a new
 > ticket. Remember to include the details of your problem.
 
-Focus on what the reader can do rather than what they
-can't using positive language.
+Us positive language and focus on what the reader *can do* rather than what they
+*can't do*.
 
 Instead of:
 
@@ -93,12 +92,12 @@ Use clear verbs to tell readers how to interact with interface elements:
 
 Bold interface names and choices:
 
-1.  Click **File > Open**. Word opens the **File** dialog box.
+1.  Click **File > Open**. Word displays the **File** dialog box.
 2.  Select the file.
 3.  Click **OK**.
 
 Always use the spelling, grammar, and exact names seen in the interface
-element.
+element, even if they are grammatically incorect. 
 
 ### User input
 

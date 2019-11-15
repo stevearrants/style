@@ -4,8 +4,8 @@ Present tense
 In technical writing, present tense is easier to read and understand
 than past or future tense. Simple verbs are easier to understand than
 complex verbs, such as those in the progressive or perfect tense. And
-most users are reading while in the middle of a procedure, trying to
-troubleshoot or solve a problem.
+most users are reading while in the middle of a procedure or when trying to
+troubleshoot and solve a problem.
 
 Especially for procedures, think of the user as they follow the steps
 --- they're "in the now."
@@ -22,5 +22,5 @@ instead of
 >
 > While working, ARTEMIS will stop if you have made an error.
 >
-> When you click Submit, ArticleExpress will have formatted the document
+> When you click **Submit**, ArticleExpress will have formatted the document
 > and saved the contents before continuing.

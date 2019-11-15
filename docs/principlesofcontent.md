@@ -11,16 +11,15 @@ and environment?*
 Help people find the information they need quickly and easily. Guide
 them through the journey.
 
-Do the hard work to make it simple
+KISS -- Keep It Simple, Stupid
 ----------------------------------
 
 * Use plain language and simple sentences.
 * Be clear, not clever.
 * Write as if you're speaking to your mom or dad.
-* Write for the audience, not yourself
+* Write for the audience, not yourself.
 
-Our end-users, customers, and all readers have complex experiences and
-backgrounds. Respect that.
+Our users have complex experiences and backgrounds. Respect that.
 
 Know the audience. I can't stress this enough! Talk to them. Don't ask
 what they *want*. Observe and give them what they *need*.
