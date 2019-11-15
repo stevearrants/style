@@ -1,18 +1,18 @@
 Active voice
 ============
 
-Our writing should be concise and direct. The active voice engages readers. It is also more concise and helps the reader identify the subject of the sentence. In the following
-example, the person who submits the form is essential information.
-Omitting that leads to a confusing and impersonal sentence.
+Active voice makes our writing concise, direct and engaging. It also helps the 
+reader identify the subject of the sentence. In the following example, the person 
+who submits the form is essential information. Omitting that leads to a 
+confusing and impersonal sentence.
 
 > Passive: The Tobacco Waiver form must be submitted to the appropriate
 > representative.
 
 > Active: Submit the Tobacco Waiver form to Human Resources.
 
-The passive de-emphasizes who should take an action and anything written
-in the passive voice is usually longer. Wordy instructions are harder to
-follow.
+The passive almost always results in a longer sentence. Passive voice de-emphasizes 
+who should take an action. Wordy instructions are also harder to follow.
 
 > Passive: The JIRA notice should be saved in your email, as it will be
 > required for future inquiries.
@@ -37,12 +37,12 @@ the passive voice.
 When to use the passive voice
 -----------------------------
 
-There are always exceptions. Never use the passive voice in a way that
-makes actions seem like they happen without anyone doing them. In our
-documentation, we should always make it clear who (or what) is doing
+There are always exceptions. Don't use the passive voice in a way that
+makes actions seem like they happen without anyone doing them. Good 
+documentationshould always make it clear who (or what) is doing
 something.
 
-You may need to use the passive voice to soften an error message or make
+You may need to use the passive voice with error messages or make
 something easier to understand.
 
 Rewording either of these sentences to use the active voice would

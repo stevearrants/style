@@ -3,9 +3,10 @@ Avoid Complex Words
 
 Use shorter words that aren't ambiguous
 ----------------------------------------------------
-Shorter words are often more accurate and less ambiguous. Writers sometimes use long, complex words
-as a way to distance themselves from the text or as a way of sounding authoritative. Unless certain words 
-or phrases are required due to regulation or contract, use the shorter, simpler word or phrase.
+Shorter words are often more accurate and less ambiguous. Writers sometimes use 
+long, complex wordsas a way to distance themselves from the text or as a way of 
+sounding authoritative. Unless certain words or phrases are required due 
+to regulation or contract, use the shorter, simpler word or phrase.
 
 <a name="A">A</a>
 ---------------------------------------

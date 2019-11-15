@@ -1,17 +1,16 @@
 Headings and titles
 ===================
 
-Most people scan the page and make decisions based on headings. Make
+Readers scan pages and make decisions based on headings. Make
 them active and descriptive.
 
 Find the right keywords
 -----------------------
 
-Ask co-workers what keywords they would expect to use. Ask end users.
+Headings should contain keywords as a guide to users. 
 What you're calling the subject of your page might not be what your
-users are calling it. While our Help files use a full-text search,
-Windows Server and Confluence rely more on exact matches. Pay special
-attention to keywords and search terms for you headings.
+users are calling it. Pay special attention to keywords and search 
+terms for you headings.
 
 Optimize the content
 --------------------
