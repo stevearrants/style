@@ -30,7 +30,7 @@ thing. Use *help* instead of *assist*, *about* instead of
 
 Plain language is more than just a proscriptive list though, it's a way
 of writing.
-See [Avoid Complex Terms](avoidcompexterms.md) for more information and a word list.
+See [Avoid Complex Words](avoidcomplexwords.md) for more information and a word list.
 
 Words to avoid
 --------------
