@@ -67,7 +67,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * contains: has
 * convene: meet
 
-<a name="DF">D-F</a>>
+<a name="DF">D-F</a>
 -----------------------
 * demonstrate: show or prove
 * depart: leave
