@@ -103,8 +103,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * incorrect: wrong
 * indication: sign
 * initiate: start or begin
-* initiate:use *start*
-* input:use *typeor *enteror *select*
+* * input:use *typeor *enteror *select*
 * itemized: listed
 * jeopardize: risk
 * liaise: work with or partner with
