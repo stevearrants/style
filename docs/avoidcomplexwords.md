@@ -4,7 +4,7 @@ Avoid Complex Words
 Use shorter words that aren't ambiguous
 ----------------------------------------------------
 Shorter words are often more accurate and less ambiguous. Writers sometimes use 
-long, complex wordsas a way to distance themselves from the text or as a way of 
+long, complex words as a way to distance themselves from the text or as a way of 
 sounding authoritative. Unless certain words or phrases are required due 
 to regulation or contract, use the shorter, simpler word or phrase.
 
@@ -53,7 +53,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * bestow: give
 * cease: stop or end
 * collaborate: work together
-* collaborate:use *working with*
+* collaborate:use working with
 * commence: begin
 * compensate: pay
 * component: part
@@ -75,7 +75,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * desire: want or wish
 * determine: decide or find
 * detrimental: bad or harmful
-* dialogue is used for conversations, *dialogis the interface item, as in dialog box
+* dialogue is used for conversations, *dialog* is the interface item, as in dialog box
 * disclose: share or tell
 * discontinue: stop
 * disseminate: send or give
@@ -89,7 +89,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * equitable: fair
 * equivalent: equal
 * exclusively: only
-* execute:use *runor *doinstead
+* execute:use run or do instead
 * expedite: hurry
 * facilitate: ease
 * females: women
@@ -99,11 +99,11 @@ to regulation or contract, use the shorter, simpler word or phrase.
 <a name="IL">I-L</a>
 -------------------
 * identical: same
-* in order to:use *to*
+* in order to:use to
 * incorrect: wrong
 * indication: sign
 * initiate: start or begin
-* * input:use *typeor *enteror *select*
+* input: use type or enter or select
 * itemized: listed
 * jeopardize: risk
 * liaise: work with or partner with
@@ -143,6 +143,4 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * terminate: end
 * transmit: send
 * utilization: use
-* utilize. *Useis a better choice. 
-* utilize: use
- 
+* utilize. Use is a better choice.  
