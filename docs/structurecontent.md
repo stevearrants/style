@@ -1,18 +1,18 @@
 Structure the content
 =====================
 
-Most of our documentation is read online. Here are some tips for
+Most documentation is read online. Here are some tips for 
 presenting it.
 
 Important information first
 ---------------------------
 
-Readers tend to scan text until they find the information they need. No
-matter how carefully you lay out and write the content, most people only
-read 25 percent of it. This shows the importance of getting content
-right.
+Readers tend to scan text until they find the information they need. No 
+matter how carefully you lay out and write the content, most people 
+only read 25 percent of it. This shows the importance of getting 
+content right.
 
-Put the most important information in the first two paragraphs. That's
+Put the most important information in the first two paragraphs. That's 
 the section users are most likely to read.
 
 Break up text
@@ -25,7 +25,7 @@ active voice.
 
 Instead of:
 
-> How to use the Schematron to validate your document and find errors
+> How the Schematron is used to validate your document and find errors
 
 Use:
 

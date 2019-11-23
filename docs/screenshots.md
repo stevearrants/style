@@ -15,10 +15,9 @@ more.
 Ground rules
 ------------
 
-Figure out precisely *what* you are doing the screenshots for, and this
-will allow you to capture just the details you need. Take some time to
-make sure that no UI element will be left outside the frame if it is of
-importance. Remember, a user should understand where the element in
+Figure out precisely *what* you are doing the screenshots for. This
+will allow you to capture just the details you need. Ensure that no necessary UI element 
+gets left outside the frame. Remember, a user should understand where the element in
 question is located in the UI to be able to find it. On this screenshot,
 it's impossible to understand what tab is opened without going through
 some explanatory text.

@@ -143,4 +143,4 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * terminate: end
 * transmit: send
 * utilization: use
-* utilize. Use is a better choice.  
+* utilize. use

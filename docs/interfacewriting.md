@@ -3,7 +3,7 @@ Interface writing
 
 We often write technical documentation where it's safe to say the reader is
 learning something new or troubleshooting. Write clear, concise
-instructions to the user the best possible experience.
+instructions to provide the best possible experience to the user.
 
 Basics
 ------
@@ -93,7 +93,7 @@ Use clear verbs to tell readers how to interact with interface elements:
 Bold interface names and choices:
 
 1.  Click **File > Open**. Word displays the **File** dialog box.
-2.  Select the file.
+2.  Select a file.
 3.  Click **OK**.
 
 Always use the spelling, grammar, and exact names seen in the interface

@@ -6,8 +6,8 @@ Bulleted lists
 
 Capitalize the first word of every bullet. Don't use semicolons after
 points in a bulleted list. Include a period at the end of the bullet
-only if that point is a complete sentence. And if one bullet point
-requires a period, all should have a period. For example:
+only if that point is a complete sentence. If one bullet point
+requires a period, give all in the list a period. For example:
 
 > When you go to the store, please buy:
 >
@@ -73,7 +73,7 @@ you may use an "en dash" to convey a range of numbers. For example, both
 Quotes
 ------
 
-These quotations are correctly punctuated:
+These sentences with quoted text are correctly punctuated:
 
 > "Would you like a milk shake?" he asked.
 >

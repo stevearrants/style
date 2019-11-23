@@ -12,8 +12,8 @@ authority. Follow these capitalization guidelines:
 *  Don't capitalize *submit* as an action, but do capitalize it if it is the name 
    of an interface item or the first word of a sentence.
 
-When you're deciding whether to capitalize noun phrases, remeber that yitle case is 
-often a marker of formality in English. It can help
+When you're deciding whether to capitalize noun phrases, remeber that 
+title case is often a marker of formality in English. It can help 
 clarify that you're speaking about a specific, official thing (such as a
 form, office, or person). But overuse can confuse users.
 

@@ -5,8 +5,7 @@ Start with user needs
 ---------------------
 
 Write in a way that suits the situation. Ask yourself: *Who am I writing
-for? What do they need to know? What is their situation, constraints,
-and environment?*
+for? What do they need to know? What is their situation? What are their constraints and environment?*
 
 Help people find the information they need quickly and easily. Guide
 them through the journey.
@@ -19,7 +18,7 @@ KISS -- Keep It Simple, Stupid
 * Write as if you're speaking to your mom or dad.
 * Write for the audience, not yourself.
 
-Our users have complex experiences and backgrounds. Respect that.
+Users have complex experiences and backgrounds. Respect that.
 
 Know the audience. I can't stress this enough! Talk to them. Don't ask
 what they *want*. Observe and give them what they *need*.
@@ -33,7 +32,7 @@ Build trust with the reader
 * Start small and build big
 -------------------------
 
-Does your content works for users? Don't be afraid to rethink and
+Does your content work for users? Don't be afraid to rethink and
 rewrite.
 
 Write a draft. Test on your users and readers. Examine their feedback.

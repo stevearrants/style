@@ -1,8 +1,8 @@
 Useful Resources
 =========
 
-My background is in user assistance and documentation that uses plain
-language and accessibility. Here are some guides I use when I have a
+My background is in user assistance and documentation that uses plain 
+language and accessibility. Here are some guides I use when I have a 
 question.
 
 Style guides
@@ -10,7 +10,7 @@ Style guides
 
 I generally follow [Microsoft Writing Style
 Guide](https://docs.microsoft.com/en-us/style-guide/welcome/).![](Resources/Images/offsite-link.png)
-I use this for computer, interface, and software terms, unless otherwise
+I use this for computer, interface, and software terms, unless otherwise 
 noted. The online site is OK, but try and find the 4th edition of the printed guide.
 The other important resource I use are:
 
@@ -21,7 +21,5 @@ The other important resource I use are:
     ![](Resources/Images/offsite-link.png)](http://www.plainlanguage.gov/)
 -   [Diversity Style Guide
     ![](Resources/Images/offsite-link.png)](http://www.diversitystyleguide.com/)
-
-I just found this site, [The Punctuation
-Guide](http://www.thepunctuationguide.com/index.html)
+-   [The Punctuation Guide](http://www.thepunctuationguide.com/index.html)
 ![](Resources/Images/offsite-link.png), for all things punctuation.

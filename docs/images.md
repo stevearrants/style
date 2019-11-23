@@ -2,12 +2,11 @@ Images
 ======
 
 Graphics and other visual elements clarify your instructions and concepts. 
-Screen shots are easy to produce and format using SnagIt (my preferred tool!) 
+Screen shots are easy to produce and format using <a href="https://www.techsmith.com/screen-capture.html target="new">SnagIt</a> ![](Resources/Images/offsite-link.png) (my preferred tool!) 
 and other tools.
 
-* **Address the user** Focus on illustrating or drawing attention to specific 
-    points you want them to understand.
-* **Be concise** Don't go crazy. Use the images to enhance, not overwhelm the document.
+* **Address the user** Focus on illustrating or drawing attention to the specific points you want them to understand.
+* **Be concise** Use the images to enhance, not overwhelm the document.
 * **Be conscious** Use real examples with the most current software.
 
 Common uses of imagery
@@ -22,8 +21,8 @@ they scale well. Use PNG if you can't use SVG. Captions aren't
 necessary in procedures.
 
 Image size is more of a group preference. Just remember that large images can 
-overwhelm the user. Consider using just parts of the full image. Or, redude the 
-image by 72-75%. Then use a Sharpen filter set at between 72-75%. 
+overwhelm the user. Consider using just parts of the full image. Or, reduce the 
+image by 72%-75%. Then use a Sharpen filter set at between 72%-75%. 
 
 Some documentation tools and JaveScript plugins let you use a thumbnail image. When the 
 user mouses over or clicks the image, it enlarges to full size. 
@@ -39,11 +38,10 @@ domain <a href="https://creativecommons.org/publicdomain/zero/1.0" target=_"new"
 Accessibility
 -------------
 
-While we aren't required to follow <a href="http://www.508checker.com/what-is-508-compliance" target="new"> 
-Section 508</a> ![](Resources/Images/offsite-link.png) guidelines, some of our customers
-**are** required to comply with Section 508. They may require vendors to comply as well. 
-The broad requirement is that any information presented in an image must also be presented 
-in an alternative format (for people who cannot view images).
+While you may not be required to follow <a href="http://www.508checker.com/what-is-508-compliance" target="new"> 
+Section 508</a> ![](Resources/Images/offsite-link.png) guidelines, some of your customers
+**are** required to comply with Section 508. This means that their vendors might need to follow 
+these guidelines. 
 
 The <a href="https://www.w3.org/WAI/" target="_new">W3C Web Accessibility initiative</a>
 ![](Resources/Images/offsite-link.png) is a good resource for all web accessibility issues.

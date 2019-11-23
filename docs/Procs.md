@@ -13,10 +13,9 @@ Here are some rules of thumb for writing effective procedures.
 * No more than 8 steps. If you require more, break the procedure up into a grouped 
   set of procedures.
 * Include images and videos if they help the user.
-* Use sub-steps sparingly, and use bullets, not a, b, c, etc.
+* Use sub-steps sparingly, and use bullets or a, b, c, etc., but be consistent!
 
-Also, don't use *Input* to show typing, or another way of entering
-information. Use *Type* instead.
+Also, don't use *Input* to show typing information. Use *Type* instead.
 
 Here is a sample procedure
 ------------------------------------------------
@@ -31,4 +30,4 @@ Here is a sample procedure
 3.  Change the **Access Level** and **Duration**, if desired.
 4.  Add any message or special instructions to include in the email.
 5.  Click **Send Invitation**. ArticleExpress sends the invitation to
-    the designated collaborator.
+    the collaborator.

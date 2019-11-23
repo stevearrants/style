@@ -1,7 +1,7 @@
 Active voice
 ============
 
-Active voice makes our writing concise, direct and engaging. It also helps the 
+Active voice makes your writing concise, direct and engaging. It also helps the 
 reader identify the subject of the sentence. In the following example, the person 
 who submits the form is essential information. Omitting that leads to a 
 confusing and impersonal sentence.
@@ -17,7 +17,7 @@ who should take an action. Wordy instructions are also harder to follow.
 > Passive: The JIRA notice should be saved in your email, as it will be
 > required for future inquiries.
 >
-> Active: Save the JIRA notice in your email for later use.
+> Active: Save the JIRA notice in your email folder for later use.
 
 When in doubt, cut directly to the verb and give the reader clear
 directions.
@@ -39,15 +39,17 @@ When to use the passive voice
 
 There are always exceptions. Don't use the passive voice in a way that
 makes actions seem like they happen without anyone doing them. Good 
-documentationshould always make it clear who (or what) is doing
+documentation should always make it clear who (or what) is doing
 something.
 
 You may need to use the passive voice with error messages or make
 something easier to understand.
 
-Rewording either of these sentences to use the active voice would
+Rewording any of these sentences to use the active voice would
 complicate the sentence or pull focus away from its main point:
 
 > Responses sent from JIRA include Waiting for Support and Closed.
 >
 > Support is required to respond to requests within 4 working hours.
+>
+> The system was put into an error state by an incorrect entry. 
