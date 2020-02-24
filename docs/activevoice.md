@@ -1,7 +1,7 @@
 Active voice
 ============
 
-Active voice makes your writing concise, direct and engaging. It also helps the 
+Active voice makes your writing concise, direct, and engaging. It also helps the 
 reader identify the subject of the sentence. In the following example, the person 
 who submits the form is essential information. Omitting that leads to a 
 confusing and impersonal sentence.

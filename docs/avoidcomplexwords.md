@@ -53,7 +53,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * bestow: give
 * cease: stop or end
 * collaborate: work together
-* collaborate:use working with
+* collaborate: use working with
 * commence: begin
 * compensate: pay
 * component: part
@@ -89,7 +89,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * equitable: fair
 * equivalent: equal
 * exclusively: only
-* execute:use run or do instead
+* execute: use run or do instead
 * expedite: hurry
 * facilitate: ease
 * females: women
@@ -99,7 +99,7 @@ to regulation or contract, use the shorter, simpler word or phrase.
 <a name="IL">I-L</a>
 -------------------
 * identical: same
-* in order to:use to
+* in order to: use to
 * incorrect: wrong
 * indication: sign
 * initiate: start or begin
@@ -143,4 +143,4 @@ to regulation or contract, use the shorter, simpler word or phrase.
 * terminate: end
 * transmit: send
 * utilization: use
-* utilize. use
+* utilize: use

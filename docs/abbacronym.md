@@ -12,7 +12,7 @@ both as acronyms. The readability issues that acronyms and initialisms
 create tend to be similar.
 
 Acronyms often confuse readers. Avoid them whenever possible, unless
-you're writing for an internal audience  already familiar with them.
+you're writing for an internal audience already familiar with them.
 
 If an acronym is necessary for future reference, spell the full word and
 follow with the acronym in parentheses on the first reference. For
