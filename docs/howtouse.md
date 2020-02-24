@@ -4,9 +4,9 @@ How to use this guide
 Introduction
 ------------
 
-This guide helps  writers create content that is both easy to 
+This guide helps writers create content that is both easy to 
 understand and meets people where they are. Instead of talking at the 
-end user, talk to or with them. Make your goal to give the user 
+end user, talk to or with them. Make it your goal to give the user 
 actionable, understandable information that meets their needs and doesn't frustrate them.
 
 The suggestions here will help you learn how to collaborate with the audience, invite them into the process, and communicate with them.

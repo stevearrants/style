@@ -2,7 +2,7 @@ Images
 ======
 
 Graphics and other visual elements clarify your instructions and concepts. 
-Screen shots are easy to produce and format using <a href="https://www.techsmith.com/screen-capture.html target="new">SnagIt</a> ![](Resources/Images/offsite-link.png) (my preferred tool!) 
+Screen shots are easy to produce and format using SnagIt (my preferred tool!) 
 and other tools.
 
 * **Address the user** Focus on illustrating or drawing attention to the specific points you want them to understand.
@@ -32,8 +32,7 @@ Copyrighted images
 
 Don't use them, even if the document is only for an internal audience. Don't
 alter a copyrighted image and use it. Instead, search for and use public
-domain <a href="https://creativecommons.org/publicdomain/zero/1.0" target=_"new">CC0 Images</a> 
-![](Resources/Images/offsite-link.png)
+domain <a href="https://creativecommons.org/publicdomain/zero/1.0" target= "new">CC0 Images</a> ![](Resources/Images/offsite-link.png)
 
 Accessibility
 -------------
@@ -43,7 +42,7 @@ Section 508</a> ![](Resources/Images/offsite-link.png) guidelines, some of your 
 **are** required to comply with Section 508. This means that their vendors might need to follow 
 these guidelines. 
 
-The <a href="https://www.w3.org/WAI/" target="_new">W3C Web Accessibility initiative</a>
+The <a href="https://www.w3.org/WAI/" target="new">W3C Web Accessibility initiative</a>
 ![](Resources/Images/offsite-link.png) is a good resource for all web accessibility issues.
 
 Every image presented online must have alt text describing the image.

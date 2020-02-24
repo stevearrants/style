@@ -47,7 +47,7 @@ Or:
 > To get started, click the **JIRA Service Desk** link to create a new
 > ticket. Remember to include the details of your problem.
 
-Us positive language and focus on what the reader *can do* rather than what they
+Use positive language and focus on what the reader *can do* rather than what they
 *can't do*.
 
 Instead of:

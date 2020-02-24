@@ -36,7 +36,7 @@ Spell out *percent* in most cases. However, use the percent sign (%) in
 these cases to improve content scannability and allow users to digest
 the content more quickly:
 
-* Tables  For example: *If the progress meter sits at 60% or lower for more than 20 minutes, close the program and start again.*
+* Tables.  For example: *If the progress meter sits at 60% or lower for more than 20 minutes, close the program and start again.*
 * Headings and subheadings. For example: *Clearing 100% of all errors.*
 * Interface labels.
 * Captions.
