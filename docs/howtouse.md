@@ -21,4 +21,4 @@ I structured this guide into descriptively named sections. Find the
 topic you're looking for in the table of contents or search by keyword.
 Use it the way that makes sense to you.
 
-If you have any suggestions or want to get involved, [send me an email.](mailto:sarrants@gmail.com,?subject=Style%20Guide%20issues)
+If you have any suggestions or want to get involved, [send me an email.](mailto:sarrants@gmail.com,?subject=Style%20Guide%20issues).
