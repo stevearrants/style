@@ -22,7 +22,6 @@ nav:
     - Abbreviations and acronyms: abbacronym.md
     - Numbers and percentages: numbers.md
     - Word list: specificwords.md
-    - Avoid complex words: avoidcomplexwords.md
   - Writing Specific Content:
     - Headings and titles: headings.md
     - Procedures: Procs.md 
@@ -34,4 +33,5 @@ theme:
   hljs languages:
     - yaml
     - rust
-  
+  features:
+    - footer
