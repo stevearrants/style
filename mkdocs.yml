@@ -34,5 +34,4 @@ theme:
   hljs languages:
     - yaml
     - rust
-  features:
-    - footer
+  
