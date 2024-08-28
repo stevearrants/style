@@ -33,13 +33,13 @@ of writing.
 
 Words to avoid
 --------------
-* abort, kill, terminate (except in technical, programming documentation).
-* collaborate -- use *working with*.
-* dialogue is used for conversations, *dialog* is the interface item, as in dialog box.
-* execute -- use *run* or *do* instead.
-* in order to -- use *to*.
-* initiate -- use *start*.
-* input -- use *type* or *enter* or *select*.
+* abort, kill, terminate (except in technical, programming documentation)
+* collaborate -- use *working with*
+* dialogue is used for conversations, *dialog* is the interface item, as in dialog box
+* execute -- use *run* or *do* instead
+* in order to -- use *to*
+* initiate -- use *start*
+* input -- use *type* or *enter* or *select*
 * simple or simply. Avoid these as something simple to a power user isn't so simple to a new user.
 * utilize. *Use* is a better choice. 
 
@@ -47,6 +47,6 @@ What about legal terms?
 -----------------------
 
 **Never** rewrite legal information, such as a copyright, terms of use
-statements, privacy statement, or other document that could open your organization to
-litigation. These documents are express or implied contracts. Ask your 
+statements, privacy statement, or other document that could open SJS to
+litigation. These documents are express or implied contracts. Ask our
 legal department for assistance.

@@ -4,10 +4,10 @@ Numbers and percentages
 Numbers
 -------
 
-Generally speaking, I follow the guidelines outlined in the Microsoft
+Generally speaking, we follow the guidelines outlined in the Microsoft
 Manual of Style, Fourth Edition However, if the document is for a more
 general audience and isn't primarily instruction, follow <a href="http://login.chicagomanualofstyle.org/action/login" target="_new"> The Chicago
-Manual of Style, 18th edition</a>![](Resources/Images/offsite-link.png)
+Manual of Style, 16th edition</a>![](Resources/Images/offsite-link.png)
 
 In body copy, spell out numbers zero through nine, and use numerals for
 numbers 10 and greater. This is true of ordinal numbers, as well. Spell

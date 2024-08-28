@@ -9,8 +9,8 @@ accompanying text explaining usage.
 -   **dialog** when used for interface items. It is a **dialog** box,
     not a **dialogue** box.
 -   **drop-down** when used as an adjective. For example, *drop-down
-    menu*. **drop down**  or **dropdown** when used as a noun. Pick one 
-    and stick with it.
+    menu*. **drop down** when used as a noun. For example, a*n option
+    from the drop down*. Never *dropdown*.
 -   **email**, not *e-mail*
 -   **internet**
 -   **login** when used as noun, for example, *I forgot my login name
@@ -19,8 +19,9 @@ accompanying text explaining usage.
     example, **Log in to edit the proof.**
 -   **p.m.**
 -   **URLs** should be lowercase, even when they appear at the start of
-    a sentence. For example, *argybargy.com is our new web address.* If a
+    a sentence. For example, *sheridan.com is our new web address.* If a
     URL ends a sentence, do not include terminal punctuation. For
     example, *This URL goes to www.sheridan.com*
+-   **Wi-Fi**
 
-Make your own word list as needed.
+Do you have any you'd like to add?

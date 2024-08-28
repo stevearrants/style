@@ -10,7 +10,7 @@ Here are some rules of thumb for writing effective procedures.
 * Present tense, please. Most of the time (all of the time?) users read the instructions when they're in the middle of trying to do something or solve a problem.
 * No more than 8 steps. If you require more, break the procedure up into a grouped set of procedures.
 * Include images and videos if they help the user.
-* Use sub-steps sparingly, and use bullets or a, b, c, etc. But don't mix them.
+* Use sub-steps sparingly, and use bullets, not a, b, c, etc.
 
 Also, don't use *Input* to show typing, or another way of entering
 information. Use *Type* instead.

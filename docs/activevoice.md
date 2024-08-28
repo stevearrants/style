@@ -50,6 +50,6 @@ something easier to understand.
 Rewording either of these sentences to use the active voice would
 complicate the sentence or pull focus away from its main point:
 
-> Responses sent from JIRA include *Waiting for Support* and *Closed.*
+> Responses sent from JIRA include Waiting for Support and Closed.
 >
 > Support is required to respond to requests within 4 working hours.

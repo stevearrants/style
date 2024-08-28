@@ -1,10 +1,10 @@
 Address your user
 =================
 
-Your content will often ask the reader to do something or take some action.
+Content from Technology often asks the reader to do something or take some action
 Use the second person singular whenever you can.
 
-> You can get training to use the Site Editor from Site Training.
+> You can get training to use the Element Editor.
 >
 > Find out how your JIRA Service Desk account works.
 

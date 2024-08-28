@@ -10,7 +10,7 @@ troubleshoot or solve a problem.
 Especially for procedures, think of the user as they follow the steps
 --- they're "in the now."
 
-> Although the site is reliable, save your work often.
+> Although ArticleExpress is reliable, save your work often.
 >
 > Click Open. ARTEMIS displays the file contents.
 >

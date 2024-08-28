@@ -43,7 +43,7 @@ Semicolons
 Use semicolons sparingly. They are difficult to see on some hand-held
 devices. Semicolons can sometimes confuse non-native English speakers.
 For example, in Greek you end a question with a semicolon. In Arabic a
-semicolon can denote a direct causal relationship between different
+semicolon denotes a direct causal relationship between different
 phrases.
 
 Try rewriting the sentence or paragraph to make it more readable.

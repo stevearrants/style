@@ -15,18 +15,24 @@ Screenshots can go a long way in explaining design and user-experience
 techniques in how-to pieces. Use them to illustrate functionality, show
 users a series of steps, or give examples.
 
-Generally, an image that spans the full width of a web page should be no more than
-800 pixels wide. Captions aren't
+An image that spans the full width of a web page should be no more than
+800 pixels wide. If possible, use vector images in the SVG format as
+they scale well. Use PNG if you can't use SVG. Captions aren't
 necessary in procedures
 
 If your content will be viewed on hand-held devices, use responsive images.
 That is, provide different image sizes depending on the
 device.
 
+For documents created with Flare or other online tools, take the screen
+shot and reduce to 72-75% in SnagIt. Then use the Sharpen filter set at
+between 72-75%. Place in Flare and set to display the thumbnail as a
+pop-up image. Please contact Steve Arrants for assistance.
+
 Copyrighted images
 ------------------
 
-Don't use them, even if the document is internal to your organization. Don't
+Don't use them, even if the document is internal to Sheridan. Don't
 alter a copyrighted image and use it. Instead, search for and use public
 domain <a href="https://creativecommons.org/publicdomain/zero/1.0" target=_"new">CC0 Images</a> 
 ![](Resources/Images/offsite-link.png)
@@ -34,9 +40,10 @@ domain <a href="https://creativecommons.org/publicdomain/zero/1.0" target=_"new"
 Accessibility
 -------------
 
-While you might not be required to follow <a href="http://www.508checker.com/what-is-508-compliance" target="new"> Section 508</a>
-![](Resources/Images/offsite-link.png) guidelines, some organizations must comply with Section 508. They may expect or require
-vendors to comply as well. The broad requirement is that
+While we aren't required to follow <a href="http://www.508checker.com/what-is-508-compliance" target="new"> Section 508</a>
+![](Resources/Images/offsite-link.png) guidelines, some of our customers
+are required to comply with Section 508. They may expect or require
+vendors (such as SJS) to comply as well. The broad requirement is that
 any information presented in an image must also be presented in an
 alternative format (for people who cannot view images).
 

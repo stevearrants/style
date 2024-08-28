@@ -9,9 +9,9 @@ If users can find two similar yet slightly different pieces of content they will
 just decide the first one they found is correct, or the one with the
 latest date, or the file found in a specific folder.
 
-You may have hundreds of file folders on many, many servers at your organization. That's a
+At SJS we have hundreds of file folders on many, many servers. That's a
 lot of content needlessly duplicated. Consolidate. Direct
 the reader to the right location &mdash; ask someone if you aren't sure.
 
 Before you start writing, check to see it hasn't already been written.
-Ask someone!
+Ask someone.

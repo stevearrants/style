@@ -30,7 +30,7 @@ Instead of:
 
 Use:
 
-> Validate with the Schematron
+> Validating with the Schematron
 
 Tables are a good way to visualize a lot of data. Long paragraphs with a
 lot of names, dates, and other information are much more difficult to
@@ -49,8 +49,8 @@ What about FAQs?
 
 FAQs are easy to write and structure---too easy. They:
 
-* Can be hard to read and search for.
-* May duplicate other content on your site.
+* Can be hard to read and search for
+* May duplicate other content on your site
 * Mean that content is not where people expect to find it.
 
 If you're thinking about posting FAQs, review the content and look for

@@ -1,7 +1,6 @@
 site_name: Writing for the End User
-copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+
 nav:
-  - Home: index.md
   - Content for end users:
     - How to use this guide: howtouse.md
     - Useful Resources: usefulresources.md
@@ -19,7 +18,7 @@ nav:
     - Punctuation: Punctuation.md
     - Images: images.md
     - Using Screenshots: screenshots.md
-    - Abbreviations and acronyms: abbacronym.md
+    - Abbrevations and acronyms: abbacronym.md
     - Numbers and percentages: numbers.md
     - Word list: specificwords.md
   - Writing Specific Content:
@@ -33,5 +32,3 @@ theme:
   hljs languages:
     - yaml
     - rust
-  features:
-    - footer

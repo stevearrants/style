@@ -10,7 +10,7 @@ Find the right keywords
 Ask co-workers what keywords they would expect to use. Ask end users.
 What you're calling the subject of your page might not be what your
 users are calling it. While our Help files use a full-text search,
-Window, OneDrive, and Confluence rely more on exact matches. Pay special
+Windows Server and Confluence rely more on exact matches. Pay special
 attention to keywords and search terms for you headings.
 
 Optimize the content
