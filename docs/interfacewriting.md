@@ -1,24 +1,24 @@
 Interface writing
 =================
 
-We often write technical documentation, guides, forms, and interface
-messages. In most of these cases, it's safe to say the reader is
+We often write technical documentation, references, collaterals, and other materials.
+In most of these cases it's safe to say the reader is
 learning something new or troubleshooting. Write clear, concise
 instructions that give your reader with the best possible experience.
 
 Basics
 ------
 
-### Do the hard work to make it simple for the reader
+### KISS Keep It Simple Stupid
 
 Help the reader follow along. Break instructions or processes down into
 individual steps. Use short, simple sentences with words people use in
 everyday conversation.
 
-Refer to navigation labels, buttons, and menus as they appear in the app
-or website. Verify the spelling and capitalization as you write. Your
+Refer to navigation labels, buttons, and menus the same way they appear in the
+application or service. Verify the spelling and capitalization as you write. Your
 reader looks for the same name as in the instruction. Always boldface
-interface items and omit any terminal punctuation from the bold.
+interface items and omit any terminal punctuation from the bold. 
 
 Be specific and give the reader as much help as you can.
 
@@ -30,6 +30,10 @@ Use:
 
 > Click **Help > Contact Technical Support**.
 
+If the interface item is incorrectly spelled or capitalized, go with the way it
+is presented in the interface. The reader often looks for *exactly* that spelling. 
+Put in a ticket to get the interface changed. 
+
 ### Direct the reader
 
 Use active verbs and clear objectives.
@@ -40,16 +44,16 @@ Instead of:
 
 Use:
 
-> Click **JIRA Service Desk** to create a help request. Include details
+> Select **JIRA Service Desk** to create a help request. Include details
 > about your problem.
 
 Or:
 
-> To get started, click the **JIRA Service Desk** link to create a new
+> To get started, select the **JIRA Service Desk** link to create a new
 > ticket. Remember to include the details of your problem.
 
-Focus on what the reader can do rather than what they
-can't using positive language.
+Focus on what the reader *can do* rather than what they
+*can't* by using positive language.
 
 Instead of:
 
@@ -76,7 +80,7 @@ Use sentence case for headings.
 ### Introduction
 
 Include a short two- or three-sentence summary about the document to
-help the reader confirm whether they're in the right place, and also to
+help the reader confirm whether they're in the right place. This will also 
 improve searchability.
 
 ### Interface elements
@@ -87,15 +91,15 @@ Use clear verbs to tell readers how to interact with interface elements:
 
 *Select* or *clear* checkboxes and radio buttons.
 
-*Click* or *tap* buttons.
+*Select*, *click*, or *tap* buttons.
 
 *Follow* or *open* links.
 
 Bold interface names and choices:
 
-1.  Click **File > Open**. Word opens the **File** dialog box.
-2.  Select the file.
-3.  Click **OK**.
+1.  Select **File > Open**. Word opens the **File** dialog box.
+2.  Choose the file in the list.
+3.  Select **OK**.
 
 Always use the spelling, grammar, and exact names seen in the interface
 element.
@@ -104,10 +108,10 @@ element.
 
 Use italic to distinguish user input from plain text. For example,
 
-> Type the exact name of the request, such as *Exit system*.
+> Type the exact name of the request, such as *Validate Proof*.
 
 ### Command line items
 
-Command line items should be in monospace. Do not use italic for this form of user input.
+Command line items should be in monospace. Do not use italic.
 
  At the C: prompt, type the following: ``chkdsk /v /f`` and press **Enter**.

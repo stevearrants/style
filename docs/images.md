@@ -1,26 +1,29 @@
 Images
 ======
 
-Graphics and other visual elements clarify. Screen shots are easy to
-produce and format using SnagIt and other tools.
+Graphics and other visual elements can clarify what you've written. 
+Screen shots are easy to produce and format using SnagIt and other tools.
 
+### Rules of thumb for images
 * **Address the user** Focus on illustrating or drawing attention to specific points you want them to understand.
 * **Be concise** Don't go crazy. Use the images to enhance, not overwhelm the document.
 * **Be conscious** Use real examples with the most current software.
+* **Be smart** You don't need to include an entire interface. If you're describing options, 
+you can show that part of the dialog.
 
 Common uses of imagery
 ----------------------
 
 Screenshots can go a long way in explaining design and user-experience
-techniques in how-to pieces. Use them to illustrate functionality, show
-users a series of steps, or give examples.
+techniques in how-to pieces. Use them to show the user the steps involved or to 
+give examples that show them what you're talking about.
 
+### Images online
 An image that spans the full width of a web page should be no more than
-800 pixels wide. Captions aren't necessary in procedures
+800 pixels wide. Captions aren't necessary in procedures.
 
-If your content will be viewed on hand-held devices, use responsive images.
-That is, provide different image sizes depending on the
-device.
+If your content may appear on hand-held devices, use responsive images.
+That is, provide different image sizes depending on the device.
 
 Copyrighted images
 ------------------

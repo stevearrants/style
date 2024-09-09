@@ -1,19 +1,19 @@
 Active voice
 ============
 
-Your writing should be concise and direct. The active voice supports
-brevity and makes written content more engaging, too. The active voice
-helps the reader identify the subject of the sentence. In the following
+Be concise and direct. Active voice supports these and it makes your 
+content more engaging, too. Using the active voice can help the reader 
+easily identify the subject of the sentence. In the following
 example, the person who submits the form is essential information.
 Omitting that leads to a confusing and impersonal sentence.
 
-> Passive: The Tobacco Waiver form must be submitted to the appropriate
+> Passive: The Remote Work benefits form must be submitted to the appropriate
 > representative.
 
-> Active: Submit the Tobacco Waiver form to Human Resources.
+> Active: Submit the Remote Work benefits form to Human Resources.
 
-The passive de-emphasizes who should take an action and anything written
-in the passive voice is usually longer. Wordy instructions are harder to
+The passive de-emphasizes who should take an action. Most text written written
+in the passive voice has more words and these texts are harder to
 follow.
 
 > Passive: The JIRA notice should be saved in your email, as it will be
@@ -21,34 +21,21 @@ follow.
 >
 > Active: Save the JIRA notice in your email for later use.
 
-When in doubt, cut directly to the verb and give the reader clear
-directions.
-
-How to recognize the passive voice
-----------------------------------
-
-Use of the passive voice is common enough that many people don't notice
-when they use it. Here's a simple way to recognize it. If you insert *by
-zombies* after the verb and the sentence still makes sense, you're using
-the passive voice.
-
-> The form was submitted by zombies.
->
-> Ted's oatmeal cookies were consumed by zombies.
+When in doubt, start with the verb. Or start with the actor and then the verb.
+> My doctor gave me a clean bill of health.
 
 When to use the passive voice
 -----------------------------
 
-There are always exceptions. Never use the passive voice in a way that
-makes actions seem like they happen without anyone doing them. Your 
+There are always exceptions. Don't use the passive voice in a way that
+makes actions seem like they happen magically, without anyone doing them. Your 
 documentation should always make it clear who (or what) is doing
 something.
 
-In some cases, use the passive voice to soften an error message or make
-something easier to understand.
+In some cases, you can soften an error message with passive voice.
 
-Rewording either of these sentences to use the active voice would
-complicate the sentence or pull focus away from its main point:
+Rewording either of these sentences with active voice 
+complicates the sentence or pull focus away from its main point:
 
 > Responses sent from JIRA include Waiting for Support and Closed.
 >

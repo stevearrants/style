@@ -4,31 +4,28 @@ How to use this guide
 Introduction
 ------------
 
-I hope you use this guide to  create content that is both easy to
-understand and meets people where they are. Documentation often just
-talks *at* readers and end-users rather than *to* or *with* them. Most
-writing leaves this audience frustrated by information that is neither
-actionable nor understandable.
+I hope you use this guide to create content that is both easy to
+understand and serves the reader. There's too much technical documentation 
+that just talks *at* the user rather than *with* them. Most
+writing leaves user frustrated by information that is doesn't give them what
+they came for. Instead of telling them the time, it tells them how to build a clock.
 
 I wanted to address this and offers several common-sense
-guidelines about writing for a diverse audience. Using this guide is the
-first step in collaborating with the audience, incorporating their
-experience and feedback into the process, and communicating in a
-consistent manner.
+guidelines about writing for a diverse audience. Using this guide can help you have 
+a conversation with your audience. Get to know them and incorporate their
+experience and feedback into the process. Always communicate in a
+consistent and logical way.
 
 
-Use this guide as a reference as&ndash;needed. Use it when you're wondering
-whether to capitalize the word *submit*, for instance, or when you're
-wondering how to create a friendly, informational document.
+Use this guide as a reference. 
 
 If you have a corporate style guide, use that one. If you don't have a standard, 
 take the content here and adapt to your needs. 
 
-I structured this guide into descriptively named sections. Find the
-topic you're looking for in the table of contents or search by keyword.
+Find the topic you're looking for in the table of contents or search by keyword.
 Use it the way that makes sense to you.
 
-If you have any suggestions contact me.
+If you have any suggestions [contact me](mailto:sarrants@gmail.com).
 
 Remember!
 ------------------------------

@@ -1,14 +1,14 @@
 Avoid duplication
 =================
 
-If something is written once and you can easily link to it, do so.
+If something is written once and you can easily link to it, use the link.
 Duplicate content produces poor search results, confuses the user, and
-you can't be sure it is current.
+it can be hard to catch and update all of it..
 
-If users can find two similar yet slightly different pieces of content they will 
-stop what they are doing and ask for guidance. Worse, some
-just decide the first one they found is correct, or the one with the
-latest date, or the file found in a specific folder.
+If users can find two similar yet *slightly* different pieces of content they will 
+stop what they are doing and ask for guidance. Worse, what if the user decides the 
+first one found is correct, or the one with the
+latest date should be used? 
 
 Your organization may have hundreds of file folders on many, many servers. That's a
 lot of content needlessly duplicated. Consolidate. Direct
