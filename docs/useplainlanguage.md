@@ -5,31 +5,24 @@ Our content should be as straightforward as possible
 ----------------------------------------------------
 
 Clear and usable content uses plain language. Plain language makes our
-content more findable, more accessible, and easier to understand.
+content easier to find, easier for all users to access, and easier to understand.
 
-Jargon, formal language, and long phrases separate us from the reader
-and erode trust. They also lead to misinterpretation and confusion.
+Many writers use jargon, formal language, and long, complex sentences. These can 
+separate the subject and content from the reader. This often leads to misinterpretation and confusion.
 
-Figurative language doesn't say what you actually mean and makes content
-harder to understand. Here are some examples:
-
-* **drive** (you can only drive vehicles, not schemes or people)
-* **drive out** (unless it's cattle)
-* **going forward** (unless you're giving directions)
-
-To avoid this, describe what you're actually doing. Be specific. Be
-open.
+Technical documentation should say what you actually mean and make your content
+transparent. Remember to describe what you're actually doing. Be specific. Be
+clear.
 
 Don't say *Input your response.* Say *Type your response.* Input can have a lot of meanings. Use the specific word.
 
-Think of your writing as a conversation, not a lecture.
+You're having a conversation with the reader. Don't lecture.
 
 Don't use formal or long words when easy or short words say the same
 thing. Use *help* instead of *assist*, *about* instead of
 *approximately*.
 
-Plain language is more than just a proscriptive list though, it's a way
-of writing.
+Make your use of plain language more than just proscriptive and into a way of writing.
 
 Words to avoid
 --------------

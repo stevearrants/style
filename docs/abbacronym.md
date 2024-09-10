@@ -1,5 +1,4 @@
-Abbreviations and acronyms
-==========================
+## Abbreviations and acronyms
 
 Abbreviations are any shortened or contracted word or phrase. For
 example, writing *HWP* instead of *High Wire Press*, or *PAP* for

@@ -1,8 +1,8 @@
 Avoid Complex Words 
 ==================
 
-Use shorter words that aren't ambiguous
-----------------------------------------------------
+### Use shorter words that aren't ambiguous
+
 Shorter words are often more accurate and less ambiguous. Writers sometimes use 
 long, complex words. It's a way to put distance between themselves and the text.
 Some writers think the bigger the word, the more authoritative they sound.
