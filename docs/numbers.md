@@ -26,8 +26,8 @@ Use the full, four-digit year unless you're writing something more informal. The
 it's okay to use an abbreviated form. For example, 
 *We're thankful printing technology isn't stuck in the '80s!*
 
-Do not use date abbreviations such as *10/2/19*. In the US we read that as
-October 2, 2019. In other parts of the world, it is 10 February 2019. 
+Do not use date abbreviations such as *10/2/25*. In the US we read that as
+October 2, 2025. In other parts of the world, it is 10 February 2025. 
 
 Percentages
 -----------
@@ -35,7 +35,7 @@ Percentages
 Spell out *percent* in most cases. However, you can use the percent sign (%) in
 these cases to help the reader scan and understand easier:
 
-* **Tables and in technical or scientific writing** For example: *If the progress meter sits at 60% or lower for more than 20 minutes, close the program and start again.*
-* **Headings and subheadings** For example: *Clearing 100% of all errors.*
+* **Tables and in technical or scientific writing** For example: *If the progress meter sits at 60% or lower for more than 20 minutes, close the program and start again*
+* **Headings and subheadings** For example: *Clearing 100% of all errors*
 * Interface labels. *50% saturation*
-* Captions. *Preview shows how your changes look before you save.*
+* Captions. *75% of the work is marked Done*

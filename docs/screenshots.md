@@ -18,8 +18,8 @@ Figure out precisely *what* you are doing the screenshots for, and this
 will allow you to capture just the details you need. Take some time to
 make sure that no UI element will be left outside the frame if it is of
 importance. Remember, a user should understand where the element in
-question is located in the UI to be able to find it. On this screenshot,
-it's impossible to understand what tab is opened without going through
+question is in the UI to be able to find it. On this screenshot,
+it's impossible to understand what tab is open without going through
 some explanatory text.
 
 ![](Resources/Images/inter1.jpg)

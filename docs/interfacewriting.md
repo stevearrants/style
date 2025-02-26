@@ -9,15 +9,15 @@ instructions that give your reader with the best possible experience.
 Basics
 ------
 
-### KISS Keep It Simple Stupid
+### Keep It Simple
 
 Help the reader follow along. Break instructions or processes down into
 individual steps. Use short, simple sentences with words people use in
 everyday conversation.
 
-Refer to navigation labels, buttons, and menus the same way they appear in the
+Refer to navigation labels, buttons, and menus like they appear in the
 application or service. Verify the spelling and capitalization as you write. Your
-reader looks for the same name as in the instruction. Always boldface
+reader looks for the same name as the one in the instructions. Always boldface
 interface items and omit any terminal punctuation from the bold. 
 
 Be specific and give the reader as much help as you can.
@@ -31,7 +31,7 @@ Use:
 > Click **Help > Contact Technical Support**.
 
 If the interface item is incorrectly spelled or capitalized, go with the way it
-is presented in the interface. The reader often looks for *exactly* that spelling. 
+is presented in the interface. The reader often looks for *precisely* that spelling. 
 Put in a ticket to get the interface changed. 
 
 ### Direct the reader
@@ -61,7 +61,7 @@ Instead of:
 
 Use:
 
-> Answer any open queries and then submit the proof.
+> Answer any open queries and then submit the request.
 
 Guidelines
 ----------
@@ -72,16 +72,10 @@ Use consistent naming by sticking to the same naming convention. This
 makes it easier for the reader to scan and find what she's looking for.
 For examples:
 
--   **Nouns** -- *Proofs*, *Users*, *Task*
--   **Verbs** -- *Create an account*, *Print a report*, *Submit a proof*
+-   **Nouns** -- *Changes*, *Users*, *Tasks*
+-   **Verbs** -- *Create an account*, *Print a report*, *Submit a change*
 
 Use sentence case for headings.
-
-### Introduction
-
-Include a short two- or three-sentence summary about the document to
-help the reader confirm whether they're in the right place. This will also 
-improve searchability.
 
 ### Interface elements
 

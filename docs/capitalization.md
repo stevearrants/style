@@ -22,7 +22,7 @@ Headings
 Headlines, page titles, subheads, and similar content should follow
 sentence case, and should not include a trailing colon. For example:
 
--   Using the Insert Citation command on your proof
--   ARTEMIS roles and responsibilities
+-   Using the Insert Filter command
+-   Implementer roles and responsibilities.
 
 If your company has a different standard, follow that. 

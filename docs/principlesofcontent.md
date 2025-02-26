@@ -18,11 +18,10 @@ them through the journey.
 
 * Use plain language and simple sentences.
 * Be clear, not clever. This isn't fiction.
-* Write as if you're speaking to your mom or dad. Then change for your users' needs.
+* •	When you write, start as if you’re speaking to your mom or dad. Then adjust for user needs.
 * Write for the audience, not yourself.
 
-Our end-users, customers, and all readers have complex experiences and
-backgrounds. Respect that.
+Developers, end-users, customers, and all readers have complex experiences and backgrounds. Respect that.
 
 > Know the audience. I can't stress this enough! Talk to them. Don't ask what they *want*. Observe and give them what they *need*.
 
@@ -32,11 +31,11 @@ backgrounds. Respect that.
 * Talk like a person, not an AI.
 * Don't sugar coat a problem. Tell the truth.
 * Use positive language and concrete, real world examples.
-* Start small and build big
+* Start small and build big.
 -------------------------
 
 Does your content works for users? Don't be afraid to rethink and
 rewrite.
 
 Write a draft. Test on your users and readers. Examine their feedback.
-Refine. Make it better, test it out, gather feedback, and keep refining.
+Refine. Make it better, test it out, gather feedback, and keep improving it.

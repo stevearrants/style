@@ -66,7 +66,7 @@ Although you should use words instead of symbols, in some contexts
 you may use an "en dash" to convey a range of numbers. For example, both
 *10&ndash;20 footnotes* and *10 to 20 footnotes* are acceptable options.
 
-> *We assign 2&ndash;5 people to each development team.*
+> *We assign 2&ndash;5 people to each implementation team.*
 
 Quotes
 ------

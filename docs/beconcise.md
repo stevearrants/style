@@ -8,7 +8,8 @@ Good content should be:
 * Clear and concise.
 * Brisk but not terse.
 * Incisive.
-* Serious but not pompous or emotionless---be frugal with adjectives. They're subjective and make the text sound emotive and inauthentic.
+
+Serious but not pompous or emotionless---be frugal with adjectives. They're subjective and make the text sound emotive and inauthentic.
 
 You should:
 
@@ -32,15 +33,11 @@ orders. Longer sentences help the flow as well.
 Do the same for paragraphs. If it looks long, it is. Try to break it up. Let's
 look at some examples. Instead of:
 
-> The DTD-Validator is used in conjunction with a large number of other
-> publishers. Generally, we update the program on a quarterly basis
-> whenever changes are implemented. When an update is scheduled for
-> release, we will alert you that there is an update available. It is
-> your responsibility to download and install the newest release and
-> then to ensure you are working with the latest version.
+> Generally, we update the software regularly. When an update is scheduled for
+> release, we will alert you that it occurred. It is
+> your responsibility to ensure you are working with the latest version.
 
 Use:
 
-> We use the DTD-Validator with many customers. We update it quarterly and
-> we'll share updates when released. Remember that you are responsible
-> to ensure you have the latest version.
+> We regularly update our software quarterly, and we notify you when it happens.
+Remember that you are responsible for reading the notices.

@@ -21,7 +21,7 @@ noted. The other important resource I use are:
 -   [Diversity Style Guide
     ![](Resources/Images/offsite-link.png)](http://www.diversitystyleguide.com/)
 
-I just found this site, [The Punctuation
+[The Punctuation
 Guide](http://www.thepunctuationguide.com/index.html)
-![](Resources/Images/offsite-link.png), for all things punctuation.
+![](Resources/Images/offsite-link.png) is useful for all things punctuation.
 

@@ -11,4 +11,4 @@ If an acronym is necessary, spell the full word and follow with the acronym in p
 on the first reference. For example, *We use a CMS (Content Management System) to manage and serve content*.
 
 Some acronyms are more recognizable than their full spellings. For
-example, *NASA*. In such instances, the acronym is acceptable.
+example, *NASA*. In such instances, the acronym alone is acceptable.

@@ -10,26 +10,26 @@ Here are some rules of thumb for writing effective procedures:
 * Active voice is easier to understand. Use it!
 * Use second person. You're talking to the user, so second person is best. You can even use the word *You* in your instructions (like I just did).
 * Present tense. Most of the time users read the instructions when they're in the middle of trying to do something or to solve a problem.
-* No more than 8 steps. If you require more, break the procedure up into a grouped set of procedures.
+* No more than 8 steps. If you require more, break the procedure up into a grouped set.
 * Include images and videos if they help the user. Even a schematic drawing can help when showing how to install hardware.
 * Use sub-steps sparingly, and use bullets or a, b, c, etc. Don't mix them!
 
-Also, I don't suggest using *Input* to show typing, or another way of entering
+Also, don't use *Input* to show typing, or another way of entering
 information. Use *Type* or *Paste* or the actual action verb instead. Because there are now multiple ways to use 
-software, such as a laptop, tablet, or other mobile device, we've had to deal with *Tap*, "*Click*, *Press*, and so on. 
-*Select* is a good choice, but follow your company style guide, if available. 
+software, such as a laptop, tablet, or other mobile device, we've had to deal with *Tap*, "*Click*, *Press*, and so on.  
 
-Here is a procedure from the ArticleExpress Help
+Here is a procedure 
 ------------------------------------------------
 
-#### To invite a collaborator:
+#### To add a new custom field:
 
-1.  Select the **Collaboration** tab. ArticleExpress displays the
-    **Collaborators** form.
-    [![](Resources/Images/PRX_COLLAB_FORM.png)](Resources/Images/PRX_COLLAB_FORM.png)
-2.  Fill out the **Add/Edit Collaborator** section. ArticleExpress
-    requires the name, initials, and email address.
-3.  Change the **Access Level** and **Duration**, as needed.
-4.  Add any message or special instructions to include in the invitation.
-5.  Select **Send Invitation**. ArticleExpress sends the invitation to
-    the designated collaborator.
+1.	On the **Subscriptions** screen, select **Custom Fields**
+    [![](Resources/Images/customfield.png)](Resources/Images/customfield.png)
+2.	Click the **Add Custom Field** button.
+3.	Fill out the **Add New Custom Field** dialog box. 
+    [![](Resources/Images/addnewcustomfield.png)](Resources/Images/addnewcustomfield.png)
+4.	Give the field a unique **Name** and **Description**.
+5.	In the **Module** drop-down, choose **Customer** or **Transaction**.
+6.	In the **Data Type** drop-down, choose a type. 
+7.	(Optional) Select the **Is Required** checkbox if the field must be filled out.
+8.	Click **Save** to add the field.

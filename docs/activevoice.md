@@ -1,7 +1,7 @@
 Active voice
 ============
 Be concise and direct. Active voice supports these and it makes your 
-content more engaging, too. Using the active voice can help the reader 
+content more engaging, too. Active voice can help the reader 
 easily identify the subject of the sentence. In the following
 example, the person who submits the form is essential information.
 Omitting that leads to a confusing and impersonal sentence.
@@ -11,8 +11,8 @@ Omitting that leads to a confusing and impersonal sentence.
 
 > Active: Submit the Remote Work benefits form to Human Resources.
 
-The passive de-emphasizes who should take an action. Most text written written
-in the passive voice has more words and these texts are harder to
+The passive de-emphasizes who should take an action. Documents written
+in the passive voice have more words and these texts are harder to
 follow.
 
 > Passive: The JIRA notice should be saved in your email, as it will be
@@ -21,7 +21,6 @@ follow.
 > Active: Save the JIRA notice in your email for later use.
 
 When in doubt, start with the verb. Or start with the actor and then the verb.
-> My doctor gave me a clean bill of health.
 
 When to use the passive voice
 -----------------------------

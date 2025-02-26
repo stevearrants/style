@@ -21,16 +21,16 @@ Break up text
 
 A wall of text overwhelms readers. Use subheads and bullet points as
 they provide clear narrative structure for readers in a hurry. Put
-information-rich words at the beginning of the phrase, and use the
+information-rich words at the beginning of the phrase and use the
 active voice.
 
 Instead of:
 
-> How to use the Schematron to validate your document and find errors
+> How to validate your changes and find errors
 
 Use:
 
-> Validate with the Schematron
+> Validate your document
 
 Tables are a good way to visualize a lot of data. Long paragraphs with a
 lot of names, dates, and other information are much more difficult to
@@ -51,7 +51,7 @@ FAQs are easy to write and structure---too easy. They:
 
 * Can be hard to read and search for
 * May duplicate other content on your site
-* Mean that content is not where people expect to find it.
+* Mean that content is not where people expect to find it
 
 If you're thinking about posting FAQs, review the content and look for
 ways to improve it. Unless there's a compelling reason, avoid FAQs.
