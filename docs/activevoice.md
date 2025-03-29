@@ -1,6 +1,6 @@
 Active voice
 ============
-Be concise and direct. Active voice supports these and it makes your 
+Be concise and direct. Active voice supports these goals and it makes your 
 content more engaging, too. Active voice can help the reader 
 easily identify the subject of the sentence. In the following
 example, the person who submits the form is essential information.
