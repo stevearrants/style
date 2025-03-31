@@ -25,9 +25,10 @@ Here is a procedure
 
 1.	On the **Subscriptions** screen, select **Custom Fields**.  
 
-2.	Click the **Add Custom Field** button.
+2.	Click the **Add Custom Field** button.  
+![add custom fields button](Resources/Images/add-custom-fields-button.png)
 3.	Fill out the **Add New Custom Field** dialog box. 
-    [![](Resources/Images/addnewcustomfield.png)](Resources/Images/addnewcustomfield.png)
+    ![add custom field dialog](Resources/Images/add-custom-field-dialog.png)
 4.	Give the field a unique **Name** and **Description**.
 5.	In the **Module** drop-down, choose **Customer** or **Transaction**.
 6.	In the **Data Type** drop-down, choose a type. 

@@ -36,6 +36,8 @@ Words to avoid
 * simple or simply. Avoid these as something simple to a power user isn't so simple to a new user. It’s acceptable in marketing or informal documents, however.
 * utilize. *Use* is a better choice. 
 
+See also [Specific Words](specificwords.md).
+
 What about legal terms?
 -----------------------
 

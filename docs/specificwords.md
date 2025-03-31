@@ -6,13 +6,15 @@ the accepted form (capitalization, hyphenation, punctuation), with
 accompanying text explaining usage.
 
 -   **a.m.**
+-   **connector** DO NOT USE.
 -   **dialog** when used for interface items. It is a **dialog** box,
     not a **dialogue** box.
 -   **drop-down** when used as an adjective. For example, *drop-down
     menu*. **drop down** when used as a noun. For example, a*n option
     from the drop down*. Never *dropdown*.
 -   **email**, not *e-mail*
--   **internet**
+-   **internet** is not capitalized unless it starts a sentence.
+-   **iPaaS.com** Do not use iPaaS when referring to the company.
 -   **login** when used as noun, for example, *I forgot my login name
     and password*, or when used as an adjective, for example **Make sure
     the login page is available.** **Log in** when used as a verb, for
