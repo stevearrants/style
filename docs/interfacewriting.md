@@ -16,7 +16,7 @@ individual steps. Use short, simple sentences with words people use in
 everyday conversation.
 
 Refer to navigation labels, buttons, and menus like they appear in the
-application or service. Verify the spelling and capitalization as you write. Your
+application or service. Verify the spelling and capitalization as you write. Your 
 reader looks for the same name as the one in the instructions. Always boldface
 interface items and omit any terminal punctuation from the bold. 
 
@@ -32,7 +32,7 @@ Use:
 
 If the interface item is incorrectly spelled or capitalized, go with the way it
 is presented in the interface. The reader often looks for *precisely* that spelling. 
-Put in a ticket to get the interface changed. 
+Contact engineering to suggest an interface edit. 
 
 ### Direct the reader
 
@@ -102,7 +102,7 @@ element.
 
 Use italic to distinguish user input from plain text. For example,
 
-> Type the exact name of the request, such as *Validate Proof*.
+> Type the exact name of the request, such as *Validate Changes*.
 
 ### Command line items
 

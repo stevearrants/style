@@ -9,7 +9,7 @@ Good content should be:
 * Brisk but not terse.
 * Incisive.
 
-Serious but not pompous or emotionless---be frugal with adjectives. They're subjective and make the text sound emotive and inauthentic.
+Be serious but not pompous or emotionless---be frugal with adjectives. They're subjective and make the text sound emotive and inauthentic.
 
 You should:
 
@@ -18,7 +18,7 @@ You should:
     *You may be able to*).
 * Use short sentences.
 * Use the language and terms your readers use.
-* Never turn verbs into nouns! That's a symptom of sloppy writing.
+* Avoid turning verbs into nouns! That's a symptom of sloppy writing.
 
 Keep sentences and paragraphs short
 -----------------------------------

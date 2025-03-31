@@ -9,4 +9,4 @@ Questions, comments
 -------------------
 
 I welcome your questions, your comments, your suggestions and
-corrections.  [Contact me!](mailto:sarrants@gmail.com?subject=Style%20Guide%20issues)
+corrections.  [Contact me!](mailto:steve.arrants@ipaas.com?subject=Style%20Guide%20issues)

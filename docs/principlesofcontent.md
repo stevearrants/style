@@ -18,7 +18,7 @@ them through the journey.
 
 * Use plain language and simple sentences.
 * Be clear, not clever. This isn't fiction.
-* •	When you write, start as if you’re speaking to your mom or dad. Then adjust for user needs.
+* When you write, start as if you’re speaking to your mom or dad. Then adjust for user needs.
 * Write for the audience, not yourself.
 
 Developers, end-users, customers, and all readers have complex experiences and backgrounds. Respect that.
@@ -28,7 +28,7 @@ Developers, end-users, customers, and all readers have complex experiences and b
 ## Build trust with your audience
 ---------------------------
 
-* Talk like a person, not an AI.
+* Talk like a person, not a computer.
 * Don't sugar coat a problem. Tell the truth.
 * Use positive language and concrete, real world examples.
 * Start small and build big.

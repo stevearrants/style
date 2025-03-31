@@ -14,9 +14,9 @@ Follow these capitalization guidelines:
 When you're deciding whether to capitalize noun phrases, remember title case is more formal. 
 It can help clarify that you're speaking about a specific, official thing (such as a
 form, office, or person). But overuse can be confusing. Readers seeing lots of 
-capitalized nouns can get lost in a Sea Of Words.
+capitalized nouns can Get Lost in a Sea Of Words.
 
-Headings
+Capitalization in headings
 --------
 
 Headlines, page titles, subheads, and similar content should follow

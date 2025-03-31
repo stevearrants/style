@@ -3,7 +3,7 @@ Creating good screenshots
 
 Screenshots are essential
 for almost any documentation as they can help users by
-providing aquick visual cue. Nobody wants to read or write a lot of
+providing a quick visual cue. Nobody wants to read or write a lot of
 text. Why spend so much time describing a process that can fit in a
 couple of screenshots?
 

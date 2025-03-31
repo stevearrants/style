@@ -96,4 +96,4 @@ Slashes
 -------
 
 Avoid using the slash */* symbol. Replace it with words or commas as
-appropriate.
+appropriate. If you must use a /, or if your corporate style guide requires it, do not place a space before/after the slash.

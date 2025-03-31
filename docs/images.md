@@ -15,7 +15,7 @@ Common uses of imagery
 ----------------------
 
 Screenshots can go a long way in explaining design and user-experience
-techniques in "How-to" documents. Use them to show the user the steps involved or to 
+techniques. Use them to show the user the steps involved or to 
 give examples showing them what you're talking about.
 
 ### Images online
@@ -23,22 +23,28 @@ An image that spans the full width of a web page should be no more than
 800 pixels wide. Captions aren't necessary in procedures.
 
 If your content may appear on hand-held devices, use responsive images.
-That is, provide different image sizes depending on the device.
+That is, provide different image sizes depending on the device. Most  
+online delivery software nowadays can take 
+an image and perform automatic resizing on the fly. 
+
+Use the **Light** setting in stead of **Dark** for the interface. Dark images are 
+harder to view when reduced. If your delivery software allows the user 
+to zoom an image with a mouseover, that's a great solution.
 
 Copyrighted images
 ------------------
 
 Don't use them, even in internal documents. Don't
 alter a copyrighted image and use it. Instead, search for and use public
-domain <a href="https://creativecommons.org/publicdomain/zero/1.0" target=_"new">CC0 Images</a> 
+domain <a href="https://creativecommons.org/publicdomain/zero/1.0" target="_blank">CC0 Images</a> 
 ![](Resources/Images/offsite-link.png)
 
 Accessibility
 -------------
 
 While you may not be required to follow <a href="http://www.508checker.com/what-is-508-compliance" target="new"> Section 508</a>
-![](Resources/Images/offsite-link.png) guidelines, some of yor clients might be
-are required to comply with Section 508. They may expect or require
+![](Resources/Images/offsite-link.png) guidelines, some of your clients might be 
+required to comply with Section 508. They may expect or require
 vendors to comply as well. The broad requirement is that
 any information presented in an image must also be presented in an
 alternative format (for people who cannot view images).

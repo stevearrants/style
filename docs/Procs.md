@@ -23,8 +23,8 @@ Here is a procedure
 
 #### To add a new custom field:
 
-1.	On the **Subscriptions** screen, select **Custom Fields**
-    [![](Resources/Images/customfield.png)](Resources/Images/customfield.png)
+1.	On the **Subscriptions** screen, select **Custom Fields**.  
+
 2.	Click the **Add Custom Field** button.
 3.	Fill out the **Add New Custom Field** dialog box. 
     [![](Resources/Images/addnewcustomfield.png)](Resources/Images/addnewcustomfield.png)
